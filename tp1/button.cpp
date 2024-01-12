@@ -3,6 +3,7 @@
 
 int main(){
     //mettre port D comme entree, les autres comme sorties
+    //port B pour LED
 
     DDRA = 0x00;
     DDRB = 0x00;
